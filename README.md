@@ -9,8 +9,17 @@ So it perform some pretty actions, just login with ID and password
 【✔】cd Facedump
 【✔】pip/pip2 install -r requirements.txt 
 【✔】python2 Facedump
+【✔】type "help" 
 
 ```
+## Features 
+Dump ID
+Dump Data
+Dump Info
+Dump Mail
+Dump Friends' Phone
+Bot Menù 
+More coming... 
 
 ## Screenshot 
 ![Screenshot](https://i.postimg.cc/zBnhwDpB/IMG-20201120-000559-876.jpg)
