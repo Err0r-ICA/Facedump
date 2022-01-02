@@ -13,12 +13,12 @@ So it perform some pretty actions, just login with ID and password
 
 ```
 ## ✨ Features ✨
-Dump ID
-Dump Data
-Dump Info
-Dump Mail
-Dump Friends' Phone
-Bot Menù 
+Dump ID <br>
+Dump Data <br> 
+Dump Info <br>
+Dump Mail <br>
+Dump Friends' Phone <br>
+Bot Menù <br>
 More coming... 
 
 ## 📸 Screenshot 📸 
