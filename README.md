@@ -1,9 +1,9 @@
-# Facedump
+# Facedump 
 <i>**Facebook bot dumper&scraper**</i>
 This boh can automatize Facebook actions thanks to APIs<br>
 So it perform some pretty actions, just login with ID and password 
 
-## Commands
+## 💿 Installation 💿
 ```
 【✔】git clone https://github.com/Err0r-ICA/Facedump
 【✔】cd Facedump
@@ -12,7 +12,7 @@ So it perform some pretty actions, just login with ID and password
 【✔】type "help" 
 
 ```
-## Features 
+## ✨ Features ✨
 Dump ID
 Dump Data
 Dump Info
@@ -21,10 +21,10 @@ Dump Friends' Phone
 Bot Menù 
 More coming... 
 
-## Screenshot 
+## 📸 Screenshot 📸 
 ![Screenshot](https://i.postimg.cc/zBnhwDpB/IMG-20201120-000559-876.jpg)
 
-### Connect with me:
+### 👤 Connect with me 👤
 <a href="https://github.com/Err0r-ICA"><img align="left" alt="codeSTACKr | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
 <a href="https://t.me/kalit3rmux"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/termuxxhacking"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
