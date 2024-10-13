@@ -29,6 +29,7 @@ More coming...
 <a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <a href="https://www.facebook.com/termuxxhacking"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://instagram.com/termux_hacking"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://instagram.com/defacer1337"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br><br> 
 
